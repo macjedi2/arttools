@@ -1,0 +1,1 @@
+The aim is to provide all users of Mac OS X Leopard free tools to replace and modify their GUI through file replacement rather than input managers or extra constantly running processes.
